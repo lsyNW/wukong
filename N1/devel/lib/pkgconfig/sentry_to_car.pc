@@ -1,0 +1,8 @@
+prefix=/home/wukong1/N1/devel
+
+Name: sentry_to_car
+Description: Description of sentry_to_car
+Version: 0.0.0
+Cflags: -I/home/wukong1/N1/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

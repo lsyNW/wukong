@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/wk1/N1/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/wk1/A1/devel/include/**",
+        "/home/wk1/N1/src/RoboRTS/plumbing_mat/include/**",
+        "/home/wk1/N1/src/RoboRTS/publish_dete_/include/**",
+        "/home/wk1/N1/src/RoboRTS/roborts_base/include/**",
+        "/home/wk1/N1/src/RoboRTS/roborts_common/include/**",
+        "/home/wk1/N1/src/RoboRTS/roborts_costmap/include/**",
+        "/home/wk1/N1/src/RoboRTS/roborts_detection/include/**",
+        "/home/wk1/N1/src/RoboRTS/sentry_to_car/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

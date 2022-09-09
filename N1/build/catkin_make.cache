@@ -1,0 +1,2 @@
+RoboRTS/plumbing_mat:RoboRTS/publish_dete_:RoboRTS/roborts:RoboRTS/roborts_base:RoboRTS/roborts_bringup:RoboRTS/roborts_common:RoboRTS/roborts_costmap:RoboRTS/roborts_decision:RoboRTS/roborts_detection:RoboRTS/roborts_localization:RoboRTS/roborts_msgs:RoboRTS/roborts_planning:RoboRTS/roborts_tracking:RoboRTS/rplidar_ros:RoboRTS/sentry_to_car
+-DCATKIN_DEVEL_PREFIX=/home/wukong1/N1/devel -DCMAKE_INSTALL_PREFIX=/home/wukong1/N1/install -G Unix Makefiles

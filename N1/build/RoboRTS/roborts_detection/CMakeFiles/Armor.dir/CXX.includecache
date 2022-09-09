@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wukong1/N1/src/RoboRTS/roborts_detection/include/roborts_detection/Armor.h
+opencv4/opencv2/imgproc/types_c.h
+-
+vector
+-
+opencv4/opencv2/opencv.hpp
+-
+iostream
+-
+
+/home/wukong1/N1/src/RoboRTS/roborts_detection/src/Armor.cpp
+roborts_detection/Armor.h
+/home/wukong1/N1/src/RoboRTS/roborts_detection/src/roborts_detection/Armor.h
+

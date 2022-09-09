@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wukong1/N1/src/RoboRTS/roborts_detection/include/roborts_detection/AngleSolverParam.h
+opencv4/opencv2/imgproc/types_c.h
+-
+iostream
+-
+vector
+-
+opencv4/opencv2/opencv.hpp
+-
+iostream
+-
+roborts_detection/Armor.h
+/home/wukong1/N1/src/RoboRTS/roborts_detection/include/roborts_detection/roborts_detection/Armor.h
+
+/home/wukong1/N1/src/RoboRTS/roborts_detection/include/roborts_detection/Armor.h
+opencv4/opencv2/imgproc/types_c.h
+-
+vector
+-
+opencv4/opencv2/opencv.hpp
+-
+iostream
+-
+
+/home/wukong1/N1/src/RoboRTS/roborts_detection/src/AngleSolverParam.cpp
+roborts_detection/AngleSolverParam.h
+/home/wukong1/N1/src/RoboRTS/roborts_detection/src/roborts_detection/AngleSolverParam.h
+

@@ -1,0 +1,8 @@
+prefix=/home/wukong1/N1/install
+
+Name: roborts_decision
+Description: Description of roborts_decision
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

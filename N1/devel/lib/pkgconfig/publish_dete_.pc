@@ -1,0 +1,8 @@
+prefix=/home/wukong1/N1/devel
+
+Name: publish_dete_
+Description: Description of publish_dete_
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

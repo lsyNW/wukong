@@ -1,0 +1,8 @@
+prefix=/home/wukong1/N1/install
+
+Name: roborts_msgs
+Description: Description of roborts_msgs
+Version: 2.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

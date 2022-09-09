@@ -1,0 +1,8 @@
+prefix=/home/wukong1/N1/install
+
+Name: plumbing_mat
+Description: Description of plumbing_mat
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure roscpp rospy std_msgs sensor_msgs image_transport cv_bridge

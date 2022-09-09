@@ -1,0 +1,13 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~exposure" : \b [double]  min: 2000.0, default: 3000.0, max: 6000.0
+- \b "~analogGain" : \b [double]  min: 2.0, default: 2.0, max: 6.0
+- \b "~redGain" : \b [double]  min: 0.0, default: 100.0, max: 400.0
+- \b "~greenGain" : \b [double]  min: 0.0, default: 100.0, max: 400.0
+- \b "~blueGain" : \b [double]  min: 0.0, default: 100.0, max: 400.0
+- \b "~saturation" : \b [double]  min: 0.0, default: 100.0, max: 200.0
+- \b "~gamma" : \b [double]  min: 0.0, default: 100.0, max: 250.0
+- \b "~contrast" : \b [double]  min: 0.0, default: 100.0, max: 200.0
+

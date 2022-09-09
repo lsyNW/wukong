@@ -1,0 +1,14 @@
+\subsubsection usage Usage
+\verbatim
+<node name="camera_params_client" pkg="plumbing_mat" type="camera_params_client">
+  <param name="exposure" type="double" value="3000.0" />
+  <param name="analogGain" type="double" value="2.0" />
+  <param name="redGain" type="double" value="100.0" />
+  <param name="greenGain" type="double" value="100.0" />
+  <param name="blueGain" type="double" value="100.0" />
+  <param name="saturation" type="double" value="100.0" />
+  <param name="gamma" type="double" value="100.0" />
+  <param name="contrast" type="double" value="100.0" />
+</node>
+\endverbatim
+

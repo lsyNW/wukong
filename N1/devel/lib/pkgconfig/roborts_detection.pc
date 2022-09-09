@@ -1,0 +1,8 @@
+prefix=/home/wukong1/N1/devel
+
+Name: roborts_detection
+Description: Description of roborts_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport roscpp rospy sensor_msgs std_msgs geometry_msgs tf message_filters
